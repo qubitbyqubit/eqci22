@@ -2,4 +2,5 @@ qxq/
 *.ipynb_checkpoints
 *.DS_Store
 index.html
+phil_todo.md
 *.sage-jupyter2
