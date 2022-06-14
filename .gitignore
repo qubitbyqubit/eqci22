@@ -5,3 +5,4 @@ phil_todo.md
 *.sage-jupyter2
 *unreleased/
 *solution/
+*ignore_*
